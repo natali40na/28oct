@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(226, 202, 95);
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+img{
+    max-width: 400px;
+    height: 450px;
+}
